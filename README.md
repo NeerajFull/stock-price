@@ -14,7 +14,7 @@ This project is a mini-website to collect and display real-time price data for s
    npm install
 3. Create a .env file in the backend directory.
    ![image](https://github.com/user-attachments/assets/3bed3d92-3cac-4850-9cc4-df00ec84b07b)
-4. Add
+4. Add these env variables in your .env file.
    ```sh
    PORT=5000
    DB_URI=YOUR_MONGO_URI
